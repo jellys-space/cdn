@@ -1,1 +1,30 @@
-
+{
+  "version": 1,
+  "pfpBase": "https://cdn.jellys-space.vip/project_biolume/enemies/pfps/",
+  "artists": [
+    { "id": "alide", "name": "Alide", "pfp": "alide.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/Precise%20bee.png"] },
+    { "id": "cacawthon", "name": "Cacawthon", "pfp": "cacawthon.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/Barracuda.png"] },
+    { "id": "cal", "name": "Cal", "pfp": "cal.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/Mega%20Starmie.png"] },
+    { "id": "clockwork", "name": "Clockwork", "pfp": "clockwork.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/rick%20astley.png"] },
+    { "id": "doger", "name": "Doger", "pfp": "doger.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/Big%20Slash%20(Blue).png"] },
+    { "id": "foxy", "name": "Foxy", "pfp": "foxy.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/tetoswirl.png"] },
+    { "id": "glassconsumer", "name": "GlassConsumer", "pfp": "glassconsumer.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/terran.png"] },
+    { "id": "jelly", "name": "Jelly", "pfp": "jelly.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/poke%20ball.png"] },
+    { "id": "jenku", "name": "Jenku", "pfp": "jenku.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/[[HEARTSHAPEDOBJECT]].png"] },
+    { "id": "kim", "name": "Kim", "pfp": "kim.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/Blue_Star.png"] },
+    { "id": "nexell", "name": "Nexell", "pfp": "nexell.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/runic.png"] },
+    { "id": "nuki", "name": "Nuki", "pfp": "nuki.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/mlem.png"] },
+    { "id": "nype", "name": "Nype", "pfp": "nype.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/White%20Ornamentby%20Nype.png"] },
+    { "id": "palco", "name": "Palco", "pfp": "palco.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/goo.png"] },
+    { "id": "prince", "name": "Prince", "pfp": "prince.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/spider%20Gwen%20decor.png"] },
+    { "id": "randomphineaszem", "name": "RandomPhineasZem", "pfp": "randomphineaszem.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/Electric%20Bomb%20Decor.png"] },
+    { "id": "seele", "name": "Seele", "pfp": "seele.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/0%20sec%20delay.png"] },
+    { "id": "serenemist", "name": "SereneMist", "pfp": "serenemist.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/StarryNight.png"] },
+    { "id": "shadow", "name": "Shadow", "pfp": "shadow.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/energyring.png"] },
+    { "id": "sharr", "name": "Sharr", "pfp": "sharr.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/005-SuperMonkeydecor.png"] },
+    { "id": "sharsame", "name": "Sharsame", "pfp": "sharsame.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/sanford.png"] },
+    { "id": "t8dyi", "name": "T8dyi", "pfp": "t8dyi.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/ds_logo.png"] },
+    { "id": "xavvi", "name": "Xavvi", "pfp": "xavvi.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/green-radar.png"] },
+    { "id": "zin", "name": "Zin", "pfp": "zin.png", "weight": 1, "decor": ["https://cdn.jellys-space.vip/decors/layla_skill.png"] }
+  ]
+}
